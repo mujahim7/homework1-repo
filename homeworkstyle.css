@@ -1,0 +1,24 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-image: url(image/p7.png);
+}
+.heading-color{
+    color: cyan;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 10%;
+}
+.half-width img{
+width: 100%;
+}
+.anchor-button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(purple,blue);}
+.middle-section{
+    color: seashell;
+}
